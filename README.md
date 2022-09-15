@@ -2,9 +2,10 @@
 I am a Computer Programming Student working on improving my skills in fullstack web development and game development. In the Summer of 2022, I learned how to utilize Typescript in the React Framework and how to use Redis, GraphQl, PostgreSQL's for backend web developement. My study of web development culminated in the development of a simple forum web application: https://github.com/weter123/Online-Forum
 
 - 🌱 I’m currently learning:
-    - ASP.NET
-    - Cloud computing.
+    - Web Programming using ASP.NET.
+    - Cloud Computing with AWS.
     - Unreal Engine 5.
+    - Data Structures and Algorithms in C++.
 <!--
 **weter123/weter123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
