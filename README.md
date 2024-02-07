@@ -1,5 +1,5 @@
 ### Hi there 👋
-I graduated with a an Advanced diploma in Computer Programming and Analysis. I developed skills in fullstack web development, SQL Databases, and game development. 
+I graduated with an Advanced Diploma in Computer Programming and Analysis. I developed skills in Software Development, Fullstack Web Development, SQL Databases, and Game Development. 
 
 In the Summer of 2022, I learned how to utilize Typescript in the React Framework and how to use Redis, GraphQl, PostgreSQL's for backend web developement. My study of web development culminated in the development of a simple forum web application: https://github.com/weter123/Online-Forum
 
