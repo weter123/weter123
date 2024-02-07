@@ -3,7 +3,8 @@ I graduated with a an Advanced diploma in Computer Programming and Analysis. I d
 
 In the Summer of 2022, I learned how to utilize Typescript in the React Framework and how to use Redis, GraphQl, PostgreSQL's for backend web developement. My study of web development culminated in the development of a simple forum web application: https://github.com/weter123/Online-Forum
 
-In 2023, I studied fundimentals of Cloud Computing using AWS and Azure. furthermore, I studied Mobile Development for Android and Game Engine Foundations. I had oppertunity to develop my SQL skills through an internship in Canadian Tire. In the internship, I learned how to develop ETL (Extract,Transform, Load) applications using SSIS (SQL Server Integration Services) and .Net Core.
+In 2023, I studied fundimentals of Cloud Computing using AWS and Azure. furthermore, I studied Mobile Development for Android and Game Engine Foundations. 
+I had the oppertunity to develop my SQL skills through an internship in Canadian Tire. In the internship, I learned how to develop ETL (Extract,Transform, Load) applications using SSIS (SQL Server Integration Services) and .Net Core.
 
 - 🌱 I’m currently learning:
     - .NET MAUI.
