@@ -1,11 +1,17 @@
 ### Hi there 👋
-I am a Computer Programming Student working on improving my skills in fullstack web development and game development. In the Summer of 2022, I learned how to utilize Typescript in the React Framework and how to use Redis, GraphQl, PostgreSQL's for backend web developement. My study of web development culminated in the development of a simple forum web application: https://github.com/weter123/Online-Forum
+I graduated with a an Advanced diploma in Computer Programming and Analysis. I developed skills in fullstack web development, SQL Databases, and game development. 
+
+In the Summer of 2022, I learned how to utilize Typescript in the React Framework and how to use Redis, GraphQl, PostgreSQL's for backend web developement. My study of web development culminated in the development of a simple forum web application: https://github.com/weter123/Online-Forum
+
+In 2023, I studied fundimentals of Cloud Computing using AWS and Azure. furthermore, I studied Mobile Development for Android and Game Engine Foundations. I had oppertunity to develop my SQL skills through an internship in Canadian Tire. In the internship, I learned how to develop ETL (Extract,Transform, Load) applications using SSIS (SQL Server Integration Services) and .Net Core.
 
 - 🌱 I’m currently learning:
-    - Web Programming using ASP.NET.
-    - Cloud Computing with AWS.
-    - Unreal Engine 5.
-    - Data Structures and Algorithms in C++.
+    - .NET MAUI.
+    - Machine Learning Fundimentals.
+    - Game Devemloment with C++ and RayLib.
+      
+- 🔭 I’m currently working on ...
+    -  Property Managment Bookkeeping application using .NET MAUI and SQLite.
 <!--
 **weter123/weter123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
