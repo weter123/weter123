@@ -13,6 +13,7 @@ I had the oppertunity to develop my SQL skills through an internship in Canadian
       
 - 🔭 I’m currently working on ...
     -  Property Managment Bookkeeping application using .NET MAUI and SQLite.
+    -  Developing games with RayLib.
 <!--
 **weter123/weter123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
